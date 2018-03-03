@@ -1,2 +1,3 @@
-# machine-learning-hacks
-Hacks in Machine Learning
+# Machine Learning Hacks
+Things I've done in my free time. And others are just hacks or experimentals.
+

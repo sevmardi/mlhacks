@@ -38,7 +38,7 @@ from keras.layers import Dense, Activation, Dropout
 start = time()
 
 model = Sequential()
-mode.add(Dense(512, input_shape=(784, )))
+model.add(Dense(512, input_shape=(784, )))
 model.add(Activation('relu'))
 model.add(Dropout(0.2))
 model.add(Dense(512))
@@ -55,6 +55,6 @@ mode.fit(X_train, y_train_onehot)
 print('\ntime taken %s seconds' % str(time() - start))
 
 y_prediction = model.predict_classes(X_test)
-print "\n\naccuracy", np.sum(y_prediction == y_test) / float(len(y_test))
+print ("\n\naccuracy", np.sum(y_prediction == y_test) / float(len(y_test)))
 
 

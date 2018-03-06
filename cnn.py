@@ -44,7 +44,7 @@ X_test = X_test.reshape(X_test.shape[0], img_rows, img_cols, 1)
 input_shape = (img_rows, img_cols, 1)
 
 model = Sequential()
-mode.add(Convolution2D(nb_filters, kernel_size[0], kernel_size[1],
+model.add(Convolution2D(nb_filters, kernel_size[0], kernel_size[1],
                         border_mode='valid',
                         input_shape=input_shape))
 

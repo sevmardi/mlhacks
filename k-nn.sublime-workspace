@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"decoded",
+				"decoded_imgs\tstatement"
+			],
+			[
+				"decode",
+				"decoded_imgs"
+			],
+			[
+				"encoded",
+				"encoded_imgs"
+			],
+			[
+				"enco",
+				"encoding_dim\tstatement"
+			],
+			[
+				"input",
+				"input_img\tstatement"
+			],
+			[
+				"NotIn",
+				"NotImplementedError\tclass"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"tim",
+				"timeing\tparam"
+			],
+			[
+				"out",
+				"out_str\tstatement"
+			],
+			[
+				"fi",
+				"finp\tstatement"
+			],
+			[
+				"increments",
+				"increments\tparam"
+			],
+			[
+				"de",
+				"defaultdict\tclass"
+			],
+			[
+				"ex",
+				"expanduser\tfunction"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"randoM",
+				"random_distances\tfunction"
+			],
+			[
+				"random",
+				"random_distances\tfunction"
+			],
+			[
+				"lab",
+				"lambda\tkeyword"
+			],
+			[
+				"summar",
+				"tf.summary() \tTensorflow"
+			],
+			[
+				"file",
+				"filename\tparam"
+			],
+			[
+				"check_",
+				"check_output\tfunction"
+			],
+			[
+				"re",
+				"recv"
+			],
+			[
+				"show",
+				"show_most_informative_features\tfunction"
+			],
+			[
+				"ar",
+				"arange\tfunction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"send",
+				"sendmail\tfunction"
+			],
+			[
+				"has",
+				"hashlib\tmodule"
+			],
+			[
+				"resc",
+				"rescaled\tfunction"
+			],
+			[
+				"num",
+				"num_cols"
+			],
+			[
+				"data",
+				"data_matrix"
+			],
+			[
+				"for",
+				"format\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "k-nn.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"scala",
+				"Scalafmt: Format current file"
+			],
+			[
+				"scla",
+				"Snippet: main class"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"\\",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emnu",
+				"View: Toggle Menu"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"isntall",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sevmardi/github/Neural-Networks/assignment2/task3/writeup.txt",
+		"/home/sevmardi/github/Neural-Networks/assignment2/task3/autoencoder.py",
+		"/home/sevmardi/github/hacks/script.sh",
+		"/home/sevmardi/github/hacks/test.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/task3/plot.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/task1/writeup.txt",
+		"/home/sevmardi/github/Neural-Networks/assignment2/task2/writeup.txt",
+		"/home/sevmardi/github/betwizer.io/tmp/spider/hunter.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/data/boston_housing/boston.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/presentation.txt",
+		"/home/sevmardi/pgadmin.log",
+		"/home/sevmardi/github/betwizer.io/betwizer_project/config/settings/local.py",
+		"/home/sevmardi/github/betwizer.io/local.json",
+		"/home/sevmardi/github/betwizer.io/local.env",
+		"/home/sevmardi/github/betwizer.io/betwizer_project/config/settings/staging.py",
+		"/home/sevmardi/github/betwizer.io/betwizer_project/config/settings/production.py",
+		"/home/sevmardi/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/data/foresttypes/forest.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/data/boston_housing/test.vw",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/csv_to_vw.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/data/rt/train.tsv",
+		"/home/sevmardi/Documents/presentation.txt",
+		"/home/sevmardi/github/betwizer.io/.gitignore",
+		"/home/sevmardi/github/betwizer.io/betwizer_project/config/settings/base.py",
+		"/home/sevmardi/github/hacks/scala.scala",
+		"/home/sevmardi/Downloads/BLBF-DisplayAds/Scripts/parser.py",
+		"/home/sevmardi/Downloads/BLBF-DisplayAds/Scripts/scorer.py",
+		"/home/sevmardi/Downloads/BLBF-DisplayAds/Scripts/latexify.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/classification.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/oaah.sh",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/ect.sh",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/data/isolet_test.vw",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/.gitignore",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/nlp_imdb.py",
+		"/home/sevmardi/github/hacks/c_programming.c",
+		"/home/sevmardi/web_devs/puphpet/config.yaml",
+		"/home/sevmardi/github/DeepCatcher/dc.py",
+		"/home/sevmardi/.cache/.fr-GTJDUy/BLBF-DisplayAds/Scripts/scorer.py",
+		"/home/sevmardi/github/cards/main.go",
+		"/home/sevmardi/github/cards/deck.go",
+		"/home/sevmardi/Downloads/ls",
+		"/home/sevmardi/github/hacks/go.go",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=Tutorials/Scala/Learning Scala Programming/Important ! Readme.txt",
+		"/home/sevmardi/Downloads/books/Pro Java Clustering and Scalability Building Real-Time Apps with Spring, Cassandra, Redis, WebSocket and RabbitMQ - ePub - 4700 [ECLiPSE]/ECLiPSE.txt",
+		"/home/sevmardi/github/machine-learning-hacks/test.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/task1/mnist_cnn.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/task1/mnist_mlp.py",
+		"/home/sevmardi/github/betwizer.io/betwizer/manage.py",
+		"/home/sevmardi/github/betwizer.io/betwizer/config/settings/base.py",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=Public/thinkpad/update.log",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/nlp/texttovw.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/utility/csv_to_vw.py",
+		"/home/sevmardi/configuration/1522441973877.log",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=Downloads/Torrent Downloads/Moonrise Kingdom (2012)/Moonrise.Kingdom.2012.1080p.BluRay.x264.YIFY.srt",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=TV/The Terror (2018)/The Terror S01E02/The.Terror.S01E02.Gore.AMZN.WEB-DL.NTb.srt",
+		"/home/sevmardi/Downloads/The.Terror.S01E02.Gore.AMZN.WEB-DL.NTb.srt",
+		"/home/sevmardi/github/Newly-Registered-Domains-Tools/tasty_downloader.py",
+		"/home/sevmardi/github/hacks/Cplusplus.cpp",
+		"/home/sevmardi/github/hacks/bh_sshserver.py",
+		"/home/sevmardi/github/hacks/bh_sshcmd.py",
+		"/home/sevmardi/Downloads/A1_group_69/instructions.txt",
+		"/home/sevmardi/Downloads/digitalocean_backupcodes.txt",
+		"/tmp/wZ2481.digitalocean_backupcodes.txt",
+		"/home/sevmardi/Videos/Udacity - Machine Learning Engineer Nanodegree/3.P1 Predicting Boston Housing Prices/5. Numpy & Pandas Tutorials/7.1 Create a DataFrame.py",
+		"/home/sevmardi/Videos/Udacity - Machine Learning Engineer Nanodegree/3.P1 Predicting Boston Housing Prices/5. Numpy & Pandas Tutorials/6. Pandas Playground -- Dataframe.py",
+		"/home/sevmardi/Videos/Udacity - Machine Learning Engineer Nanodegree/3.P1 Predicting Boston Housing Prices/5. Numpy & Pandas Tutorials/3. Numpy Playground.py",
+		"/home/sevmardi/Videos/Udacity - Machine Learning Engineer Nanodegree/3.P1 Predicting Boston Housing Prices/5. Numpy & Pandas Tutorials/5.Pandas Playground -- Series.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/rt/plot.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/rt/munge.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/plot.py",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=Programing%20Assets/CodeCanyon/HTML 5/Coming Soons/Start - Coming Soon Responsive Template/Site/image/php/contact-me.php",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=Programing%20Assets/CodeCanyon/HTML 5/Coming Soons/2simplenaturehtml/demo/slides.html",
+		"/run/user/1000/gvfs/afp-volume:host=SynologyServer.local,user=sevmardi,volume=Programing%20Assets/CodeCanyon/HTML 5/Coming Soons/2simplenaturehtml/demo/php/emails.csv",
+		"/opt/xmind8/XMind_amd64/XMind.ini",
+		"/home/sevmardi/.local/share/applications/xmind.desktop",
+		"/opt/xmind/xmind8/XMind_amd64/XMind.ini",
+		"/home/sevmardi/configuration/1522441555970.log",
+		"/opt/xmind/xmind8/XMind_amd64/XMind",
+		"/home/sevmardi/github/code/chapter2/sample/matchers/rss.go",
+		"/home/sevmardi/github/code/chapter2/sample/search/search.go",
+		"/home/sevmardi/github/code/chapter2/sample/search/match.go",
+		"/home/sevmardi/github/code/chapter2/sample/search/default.go",
+		"/home/sevmardi/github/code/chapter2/sample/search/feed.go",
+		"/home/sevmardi/github/code/chapter2/sample/main.go",
+		"/home/sevmardi/github/hacks/.gitignore",
+		"/home/sevmardi/github/machine-learning-hacks/k-nn.py",
+		"/home/sevmardi/github/hacks/graphs/graph.py",
+		"/home/sevmardi/github/hacks/graphs/graphs.py",
+		"/home/sevmardi/github/hacks/graphs/graphs.pyt",
+		"/home/sevmardi/github/hacks/domainhunter.py",
+		"/home/sevmardi/github/hacks/dropcatcher.py",
+		"/home/sevmardi/github/hacks/monitor_website.py",
+		"/home/sevmardi/github/hacks/domainhunt.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/lstm_text_generation.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/addition_rnn.py",
+		"/home/sevmardi/github/Neural-Networks/assignment2/lstm_seq2seq.py",
+		"/home/sevmardi/github/Neural-Networks/lstm_seq2seq.py",
+		"/home/sevmardi/github/Neural-Networks/addition_rnn.py",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/nlp/readme.md",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/munge.py",
+		"/home/sevmardi/github/machine-learning-hacks/data/housing.csv",
+		"/home/sevmardi/github/vowpal-wabbit-experiments/data/boston_housing/boston.csv",
+		"/home/sevmardi/github/machine-learning-hacks/boston_housing.py",
+		"/home/sevmardi/.ssh/id_rsa.pub",
+		"/home/sevmardi/github/workstation_setup_automated/script.sh"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 170.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "k-nn.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "k-nn.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"scri",
+				"script.sh"
+			],
+			[
+				"prees",
+				"presentation.txt"
+			],
+			[
+				"prese",
+				"presentation.txt"
+			],
+			[
+				"loca",
+				"local.env"
+			],
+			[
+				"",
+				"presentation.txt"
+			],
+			[
+				"boston",
+				"data/boston_housing/boston.py"
+			],
+			[
+				"presen",
+				"presentation.txt"
+			],
+			[
+				"csv",
+				"csv_to_vw.py"
+			],
+			[
+				"scala",
+				"scala.scala"
+			],
+			[
+				"cpro",
+				"c_programming.c"
+			],
+			[
+				"cpor",
+				"c_programming.c"
+			],
+			[
+				"go",
+				"go.go"
+			],
+			[
+				"cp",
+				"c_programming.c"
+			],
+			[
+				"c",
+				"c_programming.c"
+			],
+			[
+				"cnn",
+				"mnist_cnn.py"
+			],
+			[
+				"bh_sshserver.py",
+				"bh_sshserver.py"
+			],
+			[
+				"bh",
+				"bh_sshcmd.py"
+			],
+			[
+				"plot",
+				"rt/plot.py"
+			],
+			[
+				"rss",
+				"sample/matchers/rss.go"
+			],
+			[
+				"def",
+				"sample/search/default.go"
+			],
+			[
+				"sear",
+				"sample/search/search.go"
+			],
+			[
+				"main",
+				"sample/main.go"
+			],
+			[
+				"got",
+				".gitignore"
+			],
+			[
+				"new",
+				"monitor_website.py"
+			],
+			[
+				"domain",
+				"domainhunter.py"
+			],
+			[
+				"doi",
+				"domainhunt.py"
+			],
+			[
+				"sc",
+				"script.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

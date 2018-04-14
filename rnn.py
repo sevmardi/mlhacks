@@ -79,7 +79,7 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy']
 
 model.fit(X_train_pad, y_train_onehot, nb_epoch=2)
 
-print('\ntime taken %s seconds ' % str(time() - start)
+print('\ntime taken %s seconds ' % str(time() - start))
 
 y_prediction = model.predict_classes(X_test_pad)
 print('\naccuracy', np.sum(y_predictio == y_test) / float(len(y_test)))
